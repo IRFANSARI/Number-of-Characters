@@ -4,9 +4,8 @@ Actually I was making a File Compresion Tool, but could not get guidance how to 
 # How to use:
 * Clone it.
 * Open cmd or terminal, and go to directory location.
-* Enter the command 'make'(without inverted comma), and hit Enter.
+* Enter the command 'make' (without inverted comma), and hit Enter.
 * Now place your file inside the directory.
-* In terminal, just write "File_Zipper <filename>"(without inverted comma), and hit Enter.
-
+* In terminal, just write "File_Zipper my.txt" (without inverted comma and write your filename in place of my.txt), and hit Enter.
 
 # Thank You
